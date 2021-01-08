@@ -18,7 +18,6 @@ The following grid displays 31 columns and 100,000 rows - over 3 million cells i
 The component leverages the power of React and TypeScript, to provide the best UX, while manipulating an unlimited set of data. It comes with an intuitive API for real-time updates, accessibility, as well as theming and custom templates, all with blazing fast performance.
 
 
-
 ************************************************************
 ************************************************************
 
